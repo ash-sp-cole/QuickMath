@@ -1,8 +1,6 @@
 {
   "name": "math-made-simple",
-  "version": "1.0.1",
-
-
+  "version": "1.0.0",
   "description": "easy to use number tool",
   "main": "index.js",
   "scripts": {
